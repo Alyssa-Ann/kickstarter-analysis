@@ -3,9 +3,11 @@ An analysis has researched in order to uncover patterns of success and failure i
 ---
 # Campaigning in the United States
 Based on analysis of data provided about many Kickstarter campaigns, the theater industry tends to have a higher success rate. As mentioned above, the successful campaigns have more reasonable goals, and get lower pledges from many backers. For a play campaign, it would be ideal to start fundraising in May or June, as these months show the highest success rate. 
-![Outcome Based on Launch Date](C:\Users\alyss\Desktop\Analysis Projects\Crowdfunding Analysis\Outcome Based on Launch Date.png)
-![Parent Catergory Outcomes](C:\Users\alyss\Desktop\Analysis Projects\Crowdfunding Analysis\Parent Category Outcomes.png)
+---
+![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/88064181/128581728-f0c4bdd0-07e3-4f21-a9b0-b2fed5097202.png)
+![Parent Category Outcomes](https://user-images.githubusercontent.com/88064181/128581769-7122c6ae-a7b9-41c9-b55d-cd6da8bc108f.png)
 ---
 # Future work in Great Britain
 In terms of the future project in Great Britain, an estimated budget of $4000 falls in line with the average of successful Kickstarter plays. 
-![Great Britain Box and Whisker](C:\Users\alyss\Desktop\Analysis Projects\Crowdfunding Analysis\Great Britain Box and Whisker.png)
+![Great Britain Box and Whisker](https://user-images.githubusercontent.com/88064181/128581781-7ef31fd5-81d4-4b22-aaf1-135aabd93860.png)
+
